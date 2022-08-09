@@ -6,7 +6,6 @@ package PokerGame;
 
 public class Card {
     private String[] ranks = {"A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K"};
-//    private String[] suits = {"♥", "♠", "♦", "♣"};
     private String[] suits = {" Hearts", " Spades", " Diamonds", " Clubs"};
 
     private int rank;
